@@ -1,4 +1,4 @@
-.App {
+/*.App {
   text-align: center;
 }
 
@@ -25,4 +25,20 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}*/
+
+
+.add-user-view{
+padding-left: 25px;
+padding-top: 20px;
+}
+
+.user-summary-view{
+  padding-left: 25px;
+  padding-top: 20px;
+}
+
+h1, h2, h3, h4, h5{
+  margin-top: 0;
+  margin-bottom: 0;
 }
