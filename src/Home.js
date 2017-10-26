@@ -1,16 +1,11 @@
 import React, { Component } from 'react';
-//import ReactDOM from 'react-dom';
-
-
 
 class Home extends Component {
-  render() {
-    return (
-      <div>This is the home page.</div>
-    );
-  }
- 
-
+	render() {
+		return (
+			<div>Welcome home. Please use the menu in the header to switch to the User Summary View</div>
+		);
+	}
 }
 
 export default Home;

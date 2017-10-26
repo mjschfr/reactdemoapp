@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,eACE,aACA,eAAiB,CAGnB,KACE,SACA,UACC,wBAA6B","file":"static/css/main.f7a58acf.css","sourcesContent":["h1, h2, h3, h4, h5{\n  margin-top: 0;\n  margin-bottom: 0;\n}\n\nbody {\n  margin: 0;\n  padding: 0;\n   font-family: 'Roboto', serif;\n }\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
